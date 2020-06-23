@@ -1,0 +1,15 @@
+{
+  "name": "dream-11-internship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.js",
+  "dependencies": {
+    "@types/node": "^14.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
